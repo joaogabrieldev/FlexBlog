@@ -1,6 +1,6 @@
 <!-- BANNER OU LOGO -->
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#TituloProjeto" src="/flexblog_banner.gif" />
+    <img alt="NextLevelWeek" title="#TituloProjeto" src="/resource_github/flexblog_banner.gif" />
 </h1>
 
 
