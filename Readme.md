@@ -1,6 +1,6 @@
 <!-- BANNER OU LOGO -->
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#TituloProjeto" src="/banner2.png" />
+    <img alt="NextLevelWeek" title="#TituloProjeto" src="/fleblog_banner.gif" />
 </h1>
 
 
