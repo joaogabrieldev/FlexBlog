@@ -4,19 +4,11 @@
 </h1>
 
 
-
-
-
 <!-- TITULO E DESCRIÇAO -->
 <div align="center">
 	<h3>FlexBlog</h3>
-	<p align="center">Layout responsivo feito no curso de CSS Flexbox da Origamid utilizando apenas as propriedades do Flexbox.</p>
+	<p align="center">Projeto de um layout responsivo feito no curso de CSS Flexbox da Origamid utilizando apenas as propriedades do Flexbox.</p>
 </div>
-
-
-
-
-
 
 
 <!-- STATUS DO PROJETO -->
@@ -26,54 +18,28 @@
 
 
 
-
-
-<!-- TABELA DE CONTEUDOS -->
-<!-- Inline -->
-<!-- <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p> -->
-
-<!-- OU EM ARVORE -->
-<!--ts-->
 ## 🗒️ Conteúdo
    * [Sobre](#-Sobre)
    * [Demonstração](#-Demonstração)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
-
-
-
+   * [Tecnologias](#-tecnologias)
+   * [Pré-requisitos](#-Pré-requisitos)
+   * [Como rodar?](#-Rodando-a-aplicação)
+   * [Autor](#-Autor)
 
 
 <!-- SOBRE -->
 ## 📖 Sobre
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
+Projeto desenvolvido no curso de CSS FLexBox da plataforma de estudos Origamid, utilizando apenas HTML e CSS nesse projeto eu aprendi bastante sobre os conceitos do flexbox e consegui praticar realizando esse layout totalmente responsivo e organizado, achei bastante simples e direto a forma que trabalhamos com o flexbox, muito bom !
 
 
 <!-- DEMONSTRAÇÃO DA APLICAÇÃO -->
 <!-- Colocar gifs e links da hospedagem -->
 ## 📺 Demonstração
 <p align="center">
-  <img alt="Nome do gif" src="/demo.gif">
+  <img alt="Demonstração" src="resource_github/flexblog_demo.gif">
 </p>
 <div align="center">
-<a href="https://google.com">Acesse a aplicação clicando aqui</a>
+<a href="https://flexblog-joaogabriel.vercel.app">Acesse a aplicação clicando aqui !</a>
 </div>
 
 
@@ -81,14 +47,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <!-- TECNOLOGIAS UTILIZADAS -->
-## 🛠 Tecnologias utilizadas
+## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+	- [FlexBox](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
 
 
@@ -96,14 +59,28 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <!-- PRE-REQUISITOS -->
 ## ⚠️ Pré-requisitos
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+- [Git](https://git-scm.com)
+- [VSCode](https://code.visualstudio.com/) (Opcional)
+- [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). (Opcional) 
+
 
 
 
 
 <!-- RODANDO A APLICAÇÃO -->
 ## 🔥 Rodando a aplicação
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+```bash
+# Clone este repositório
+$ git clone https://github.com/joaogabrieldev/FlexBlog
+
+# Acesse a pasta do projeto no vscode ou no seu gerenciador de arquivos
+
+# Execute o arquivo index.html com o LiveServer pelo vscode
+# ou abra o arquivo index.html no seu navegador
+
+# A aplicação iniciará localmente na sua maquina !
+```
 
 
 
