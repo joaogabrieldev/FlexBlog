@@ -35,8 +35,9 @@ Projeto desenvolvido no curso de CSS FLexBox da plataforma de estudos Origamid, 
 <!-- DEMONSTRAÇÃO DA APLICAÇÃO -->
 <!-- Colocar gifs e links da hospedagem -->
 ## 📺 Demonstração
-<p align="left">
+<p align="center">
   <img alt="Demonstração" src="resource_github/flexblog_demo.gif" width="600">
+	<img alt="Demonstração" src="resource_github/flexblog_mobile.gif" height="340">
 </p>
 <div align="center">
 <a href="https://flexblog-joaogabriel.vercel.app">Acesse a aplicação clicando aqui !</a>
