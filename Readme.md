@@ -9,8 +9,8 @@
 
 <!-- TITULO E DESCRIÇAO -->
 <div align="center">
-	<h3>Nome do Projeto</h3>
-	<p align="center">Descrição do projeto, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+	<h3>FlexBlog</h3>
+	<p align="center">Layout responsivo feito no curso de CSS Flexbox da Origamid utilizando apenas as propriedades do Flexbox.</p>
 </div>
 
 
@@ -21,7 +21,7 @@
 
 <!-- STATUS DO PROJETO -->
 <h4 align="center"> 
-	🚧 Em construção 🚧 
+	🚧 Concluido 🚧 
 </h4>
 
 
@@ -42,9 +42,8 @@
 <!-- OU EM ARVORE -->
 <!--ts-->
 ## 🗒️ Conteúdo
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
+   * [Sobre](##Sobre)
+   * [Demonstração](##Demonstração)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
       * [Local files](#local-files)
